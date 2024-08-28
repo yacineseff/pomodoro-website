@@ -1,0 +1,178 @@
+*{
+margin: 0;
+color: black;
+
+  font-family: "DM Serif Text", serif;
+  font-weight: 400;
+
+
+}
+.bimage{
+  background-image: url("oleg-chursin-vaPoJZB9Mzg-unsplash.jpg");
+  background-size: cover;
+ width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+}
+.title{
+position: fixed;
+left:39%;
+top: 06%;
+}
+.gh{
+ position: fixed;
+ top: 7.4%;
+ left:36.7%;
+}
+
+
+  .box{
+    position: fixed;
+    left:30%;
+    top:20%;
+    display:inline;
+justify-content: space-between;
+height: 400px;
+width: 400px;
+
+  }
+.container{
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.739);
+  height: 400px;
+  width: 400px;
+  left:64%;
+  top:20%;
+
+  display: none;
+}
+#myProgress {
+  width: 80%;
+  background-color: rgba(128, 128, 128, 0.771);
+  position: fixed;
+left:9%;
+top:13%;
+}
+
+#myBar {
+  width: 0%;
+  height: 3px;
+  background-color:#FF6347;
+}
+.-main {
+
+background-color: rgba(32, 30, 30, 0.025);
+border: 0;
+position: fixed;
+left:54%;
+transform: translate(10%,10%);
+transition: 0.5s;
+font-size: 16px;
+top:20%;
+padding:0;
+}
+
+
+.break {
+
+  background-color: rgba(32, 30, 30, 0.025);
+  border: 0;
+  position: fixed;
+  left:42%;
+  transform: translate(10%,10%);
+  transition: 0.5s;
+  font-size: 16px;
+  top:20%;
+  padding:0;
+  }
+  
+  
+  
+  .setting {
+
+    background-color: rgba(32, 30, 30, 0.025);
+    border: 0;
+    padding: 0%;
+    
+  position: fixed;
+    top:20.5%;
+
+    }
+    .setting:hover{
+   
+      background-color: #fb806a ;
+      
+      }
+      .switcher{
+        position: fixed;
+       top:70%;
+       background-color:#fa5e4296;
+       padding: 0;
+       height:50px; width: 134px;
+  
+      }
+      .switcher:hover{
+        background-color: rgba(0, 0, 0, 0.601);
+        color:#fb806a ;
+      }
+      .pomodorolabel2{
+        position:relative;
+        top: 17%;
+        color:white;
+      right:30%;
+        
+      }
+      #quantity2{
+        position: relative;
+        top:10%;
+       width: 40%;
+        outline: none;
+         padding: 0 30px; 
+         border-radius: 06px;
+         border: 2px solid rgba(255, 255, 255, 0.28); 
+        background: transparent; 
+        transition: 0.3s ease; 
+        height: 24px;
+        color: #fb806a;
+        left:19%;
+        font-size: large;
+      }
+      .pomodorolabel{
+        position: relative;
+        top: 58%;
+        color:white;
+        left: -30%;
+        
+      }
+      #quantity{
+        position: relative;
+        top:50%;
+       width: 40%;
+        outline: none;
+         padding: 0 30px; 
+         border-radius: 06px;
+        border: 2px solid rgba(255, 255, 255, 0.28); 
+        background: transparent; 
+        transition: 0.3s ease; 
+        height: 24px;
+        left:19%;
+        font-size: large;
+        color: #fb806a;
+      }
+
+.close{
+  position: relative;
+  top: 70%;
+  font-weight:300;
+  cursor: pointer;
+  background-color: #fa5e4296;
+ width: 64px;
+ height: 35px;
+ font-size:25px;
+ left:40%;
+
+}
+.close:hover{
+  background-color: rgba(0, 0, 0, 0.601);
+  color:#fb806a ;
+}
