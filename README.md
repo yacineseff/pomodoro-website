@@ -24,8 +24,4 @@ Repeat as Needed: Continue the cycle of work and breaks to maintain productivity
 Contributing
 Feel free to contribute to this project by suggesting improvements, reporting issues, or adding new features. For contributions, please follow the guidelines in the CONTRIBUTING.md file.
 
-License
-This project is licensed under the MIT License.
-
-Thank you for using the Pomodoro Timer Website. We hope it helps you achieve your productivity goals!
 
