@@ -1,5 +1,5 @@
 # pomodoro-website
-Pomodoro Timer Website
+
 Welcome to the Pomodoro Timer Website! This project is designed to help you stay focused and manage your time efficiently using the Pomodoro Technique.
 Overview
 The Pomodoro Technique is a time management method developed by Francesco Cirillo. It involves working in focused intervals, typically 25 minutes, followed by a short break. This approach helps enhance productivity and prevent burnout by breaking work into manageable chunks.
