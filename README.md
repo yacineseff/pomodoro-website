@@ -21,6 +21,6 @@ Start the Timer: Click the start button to begin your work session.
 Take a Break: The timer will automatically switch to a break period once the work session ends.
 Repeat as Needed: Continue the cycle of work and breaks to maintain productivity.
 Contributing
-Feel free to contribute to this project by suggesting improvements, reporting issues, or adding new features. For contributions, please follow the guidelines in the CONTRIBUTING.md file.
+Feel free to contribute to this project by suggesting improvements, reporting issues, or adding new features. 
 
 
